@@ -2,7 +2,7 @@
 
 ICSL files are built around two main concepts: Labels and commands.
 
-*Please note: ICSL is designed to work with [a Greg Lobanov save system](https://wandersong.tumblr.com/post/156621436796/how-savedata-management-works-in-wandersong).*
+*Please note: ICSL is designed to work with [a Greg Lobanov save system](https://wandersong.tumblr.com/post/156621436796/how-savedata-management-works-in-wandersong) for the blackboard.*
 
 ## Labels
 
